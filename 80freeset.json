@@ -1,0 +1,992 @@
+[
+  {
+    "questionNumber": 1,
+    "section": "Reading Comprehension",
+    "passage": "Passage 1 (Q1–Q4): Democracy is not merely a form of government; it is a way of associated living. What does democracy mean? It means a government of the people, by the people, and for the people. The test of democracy is not the extent of the franchise but the extent to which the government is responsive to the needs and aspirations of the people. Democracy also implies freedom — freedom of speech, freedom of the press, and freedom of association. Without these freedoms, democracy is hollow. However, freedom must be exercised responsibly. Freedom without responsibility leads to anarchy. A democratic citizen must be vigilant, informed, and actively participate in the democratic process. Passive citizens are the greatest threat to democracy.",
+    "questionStatement": "According to the passage, what is the most appropriate test of democracy?",
+    "options": {
+      "option1": "The number of people who can vote",
+      "option2": "The responsiveness of the government to the needs and aspirations of the people",
+      "option3": "The freedom of press and speech available to citizens",
+      "option4": "The number of political parties participating in elections"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 2,
+    "section": "Reading Comprehension",
+    "passage": "Passage 1 (Q1–Q4): Same as above.",
+    "questionStatement": "Which of the following is stated in the passage as the greatest threat to democracy?",
+    "options": {
+      "option1": "Anarchy",
+      "option2": "Absence of freedom of press",
+      "option3": "Passive citizens",
+      "option4": "Government unresponsiveness"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 3,
+    "section": "Reading Comprehension",
+    "passage": "Passage 1 (Q1–Q4): Same as above.",
+    "questionStatement": "The passage suggests that freedom without responsibility leads to:",
+    "options": {
+      "option1": "Democracy",
+      "option2": "Autocracy",
+      "option3": "Anarchy",
+      "option4": "Oligarchy"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 4,
+    "section": "Reading Comprehension",
+    "passage": "Passage 1 (Q1–Q4): Same as above.",
+    "questionStatement": "Which of the following best describes the central theme of the passage?",
+    "options": {
+      "option1": "The importance of universal suffrage in democracy",
+      "option2": "Democracy as a way of life requiring informed, responsible, and active citizens",
+      "option3": "Freedom of speech as the cornerstone of any government",
+      "option4": "The dangers of government overreach in a democracy"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 5,
+    "section": "Reading Comprehension",
+    "passage": "Passage 2 (Q5–Q8): India's biodiversity is among the richest in the world. It is one of the seventeen 'megadiverse' countries, harbouring more than 7–8% of the world's recorded species. The country has a variety of ecosystems — from the cold deserts of Ladakh to the tropical rainforests of the Western Ghats, from the mangroves of Sundarbans to the grasslands of the Terai. This diversity is under threat from multiple sources: habitat loss due to agriculture and urbanization, overexploitation of resources, invasive alien species, pollution, and climate change. India has responded through a network of Protected Areas, including National Parks, Wildlife Sanctuaries, and Biosphere Reserves. Yet, conservation cannot succeed without community participation. People who depend on forests must become stakeholders in their protection.",
+    "questionStatement": "Which of the following is NOT mentioned in the passage as a threat to India's biodiversity?",
+    "options": {
+      "option1": "Invasive alien species",
+      "option2": "Climate change",
+      "option3": "Nuclear waste disposal",
+      "option4": "Habitat loss due to urbanization"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 6,
+    "section": "Reading Comprehension",
+    "passage": "Passage 2 (Q5–Q8): Same as above.",
+    "questionStatement": "The passage suggests that conservation efforts will succeed only if:",
+    "options": {
+      "option1": "More National Parks are established",
+      "option2": "Communities dependent on forests become stakeholders in protection",
+      "option3": "India gains recognition as a megadiverse country",
+      "option4": "Climate change is fully reversed"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 7,
+    "section": "Reading Comprehension",
+    "passage": "Passage 2 (Q5–Q8): Same as above.",
+    "questionStatement": "What does the author mean by calling India a 'megadiverse' country?",
+    "options": {
+      "option1": "India has the largest land area in the world",
+      "option2": "India is one of a select group of nations harbouring a disproportionately large share of the world's species",
+      "option3": "India has the most varied languages and cultures",
+      "option4": "India has the greatest number of Protected Areas globally"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 8,
+    "section": "Reading Comprehension",
+    "passage": "Passage 2 (Q5–Q8): Same as above.",
+    "questionStatement": "Which of the following can be inferred from the passage?",
+    "options": {
+      "option1": "India's biodiversity is already beyond recovery",
+      "option2": "Government-led conservation alone is insufficient for protecting biodiversity",
+      "option3": "Biosphere Reserves are more effective than National Parks",
+      "option4": "Invasive species are the most serious threat to Indian biodiversity"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 9,
+    "section": "Reading Comprehension",
+    "passage": "Passage 3 (Q9–Q12): Artificial intelligence is not a new concept, but advances in machine learning and computing power have brought it to the forefront of public debate. Today, AI systems can diagnose diseases, write poetry, drive cars, and predict market trends. Yet the same technology raises fundamental questions about employment, privacy, and the nature of human intelligence itself. Proponents argue that AI will create new categories of jobs and enhance human productivity. Critics warn of widening inequality — where the benefits of AI accrue only to those with capital and technical skill. The debate about AI is ultimately a debate about what kind of society we want to build. Technology is not neutral; it embeds the values of those who design it.",
+    "questionStatement": "The passage makes which of the following implicit assumptions?",
+    "options": {
+      "option1": "AI is beneficial only in the medical field",
+      "option2": "The development and outcomes of AI are shaped by human choices and values",
+      "option3": "AI will inevitably lead to widespread unemployment",
+      "option4": "Machine learning is the most advanced form of AI"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 10,
+    "section": "Reading Comprehension",
+    "passage": "Passage 3 (Q9–Q12): Same as above.",
+    "questionStatement": "According to the passage, critics of AI are primarily concerned about:",
+    "options": {
+      "option1": "The inability of AI to write poetry",
+      "option2": "The loss of human identity",
+      "option3": "Widening inequality where AI benefits accrue only to those with capital and technical skills",
+      "option4": "Overreliance on AI for medical diagnosis"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 11,
+    "section": "Reading Comprehension",
+    "passage": "Passage 3 (Q9–Q12): Same as above.",
+    "questionStatement": "What does the author mean by the statement 'Technology is not neutral'?",
+    "options": {
+      "option1": "Technology can be used for both good and bad purposes",
+      "option2": "Technology reflects and reinforces the values of those who create it",
+      "option3": "Technology should be regulated by neutral international bodies",
+      "option4": "Technology has no political or social implications"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 12,
+    "section": "Reading Comprehension",
+    "passage": "Passage 3 (Q9–Q12): Same as above.",
+    "questionStatement": "Which of the following best summarizes the passage?",
+    "options": {
+      "option1": "AI is a dangerous technology that should be banned",
+      "option2": "AI raises profound societal questions about jobs, inequality, and values that require deliberate choices",
+      "option3": "AI will replace human intelligence entirely in the near future",
+      "option4": "Only proponents of AI understand its true potential"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 13,
+    "section": "Reading Comprehension",
+    "passage": "Passage 4 (Q13–Q16): Urbanization is one of the most transformative trends of the twenty-first century. More than half the world's population now lives in cities, and this proportion is expected to rise to two-thirds by 2050. Cities are engines of economic growth — they generate more than 80% of global GDP. But rapid and unplanned urbanization brings severe challenges: traffic congestion, air pollution, inadequate sanitation, urban heat islands, and social exclusion. The concept of 'Smart Cities' offers a technological solution to these problems — using data, sensors, and connectivity to manage urban systems more efficiently. However, critics argue that smart city initiatives often prioritize technical solutions over the social dimensions of urban life, risking the exclusion of the urban poor from the benefits of development.",
+    "questionStatement": "According to the passage, what percentage of global GDP do cities generate?",
+    "options": {
+      "option1": "50%",
+      "option2": "67%",
+      "option3": "80%",
+      "option4": "90%"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 14,
+    "section": "Reading Comprehension",
+    "passage": "Passage 4 (Q13–Q16): Same as above.",
+    "questionStatement": "The critics of Smart Cities mentioned in the passage are primarily concerned that:",
+    "options": {
+      "option1": "Smart Cities will make cities too dependent on technology",
+      "option2": "Technical solutions may exclude the urban poor from development benefits",
+      "option3": "Smart Cities will increase traffic congestion",
+      "option4": "Data privacy will be compromised in smart city systems"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 15,
+    "section": "Reading Comprehension",
+    "passage": "Passage 4 (Q13–Q16): Same as above.",
+    "questionStatement": "Which of the following problems of rapid urbanization is NOT mentioned in the passage?",
+    "options": {
+      "option1": "Urban heat islands",
+      "option2": "Social exclusion",
+      "option3": "Rising crime rates",
+      "option4": "Inadequate sanitation"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 16,
+    "section": "Reading Comprehension",
+    "passage": "Passage 4 (Q13–Q16): Same as above.",
+    "questionStatement": "Which of the following best reflects the author's attitude towards Smart Cities?",
+    "options": {
+      "option1": "Unreservedly enthusiastic",
+      "option2": "Completely opposed",
+      "option3": "Cautiously balanced — acknowledging potential while noting serious social risks",
+      "option4": "Indifferent to the concept"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 17,
+    "section": "Logical Reasoning",
+    "questionStatement": "Statements: All honest persons are trustworthy. No trustworthy person is selfish. Conclusions: I. No honest person is selfish. II. Some selfish persons are honest. Which of the following is correct?",
+    "options": {
+      "option1": "Only Conclusion I follows",
+      "option2": "Only Conclusion II follows",
+      "option3": "Both Conclusions I and II follow",
+      "option4": "Neither Conclusion I nor II follows"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 18,
+    "section": "Logical Reasoning",
+    "questionStatement": "Statements: Some birds are flowers. All flowers are trees. Conclusions: I. Some birds are trees. II. All trees are flowers. Which of the following is correct?",
+    "options": {
+      "option1": "Only Conclusion I follows",
+      "option2": "Only Conclusion II follows",
+      "option3": "Both I and II follow",
+      "option4": "Neither I nor II follows"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 19,
+    "section": "Logical Reasoning",
+    "questionStatement": "Statements: No stone is water. All water is liquid. Conclusions: I. No stone is liquid. II. Some liquids are not stones. Which of the following is correct?",
+    "options": {
+      "option1": "Only Conclusion I follows",
+      "option2": "Only Conclusion II follows",
+      "option3": "Both I and II follow",
+      "option4": "Neither I nor II follows"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 20,
+    "section": "Logical Reasoning",
+    "questionStatement": "A is the father of B. B is the sister of C. C is the son of D. D is the wife of E. How is A related to E?",
+    "options": {
+      "option1": "Brother",
+      "option2": "Father-in-law",
+      "option3": "Husband",
+      "option4": "Uncle"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 21,
+    "section": "Logical Reasoning",
+    "questionStatement": "Pointing to a photograph, a man said, 'She is the daughter of my grandfather's only son.' How is the woman in the photograph related to the man?",
+    "options": {
+      "option1": "Mother",
+      "option2": "Sister",
+      "option3": "Aunt",
+      "option4": "Cousin"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 22,
+    "section": "Logical Reasoning",
+    "questionStatement": "If 'A × B' means A is the son of B, 'A + B' means A is the wife of B, and 'A – B' means A is the brother of B, then which of the following means P is the maternal uncle of Q?",
+    "options": {
+      "option1": "P – M + Q",
+      "option2": "P – M × Q",
+      "option3": "Q × M + P",
+      "option4": "Q × M – P"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 23,
+    "section": "Logical Reasoning",
+    "questionStatement": "Six people — P, Q, R, S, T, U — are sitting in a row facing north. T is to the immediate right of S. U is at the extreme left. Q is between P and R. S is third from the right. Which person is at the extreme right?",
+    "options": {
+      "option1": "P",
+      "option2": "Q",
+      "option3": "R",
+      "option4": "T"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 24,
+    "section": "Logical Reasoning",
+    "questionStatement": "In a certain code language, 'TIGER' is written as 'SDFHS'. Which word is coded as 'BQFHM'?",
+    "options": {
+      "option1": "CRGIL",
+      "option2": "CRANE",
+      "option3": "CRHIN",
+      "option4": "CQGIN"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 25,
+    "section": "Logical Reasoning",
+    "questionStatement": "In a class of 50 students, 30 like Cricket, 25 like Football, and 10 like both. How many students like neither Cricket nor Football?",
+    "options": {
+      "option1": "3",
+      "option2": "5",
+      "option3": "7",
+      "option4": "10"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 26,
+    "section": "Logical Reasoning",
+    "questionStatement": "Five books — P, Q, R, S, T — are placed on a shelf. P is to the right of Q. S is to the left of T. R is between P and S. Q is at the extreme left. What is the order from left to right?",
+    "options": {
+      "option1": "Q, P, R, S, T",
+      "option2": "Q, P, S, R, T",
+      "option3": "Q, P, R, T, S",
+      "option4": "Q, S, R, P, T"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 27,
+    "section": "Logical Reasoning",
+    "questionStatement": "Consider the following argument: 'All developing countries need foreign aid. India is a developing country. Therefore India needs foreign aid.' This argument is:",
+    "options": {
+      "option1": "Invalid because the premise is false",
+      "option2": "Valid and the conclusion follows necessarily from the premises",
+      "option3": "Invalid because the conclusion doesn't follow from the premises",
+      "option4": "Valid only if India is poor"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 28,
+    "section": "Logical Reasoning",
+    "questionStatement": "Which one of the following diagrams correctly represents the relationship among: Doctors, Surgeons, Teachers?",
+    "options": {
+      "option1": "Three separate circles with no overlap",
+      "option2": "Surgeons fully inside Doctors; Teachers as a separate circle",
+      "option3": "All three circles completely overlapping",
+      "option4": "Teachers partially overlapping with Doctors"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 29,
+    "section": "Logical Reasoning",
+    "questionStatement": "Assertion (A): The number of road accidents is increasing in urban areas. Reason (R): There has been a rapid increase in the number of vehicles on roads. Which of the following is the most appropriate answer?",
+    "options": {
+      "option1": "Both A and R are true, and R is the correct explanation of A",
+      "option2": "Both A and R are true, but R is not the correct explanation of A",
+      "option3": "A is true but R is false",
+      "option4": "A is false but R is true"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 30,
+    "section": "Logical Reasoning",
+    "questionStatement": "A man walks 10 km north, turns right and walks 5 km, then turns right again and walks 10 km. How far is he from the starting point and in which direction?",
+    "options": {
+      "option1": "5 km, West",
+      "option2": "5 km, East",
+      "option3": "10 km, South",
+      "option4": "15 km, North"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 31,
+    "section": "Logical Reasoning",
+    "questionStatement": "If the day before yesterday was Saturday, what day will it be the day after tomorrow?",
+    "options": {
+      "option1": "Tuesday",
+      "option2": "Wednesday",
+      "option3": "Thursday",
+      "option4": "Friday"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 32,
+    "section": "Logical Reasoning",
+    "questionStatement": "Introducing a girl, Shyam said, 'Her mother is the only daughter of my mother.' How is the girl related to Shyam?",
+    "options": {
+      "option1": "Niece",
+      "option2": "Daughter",
+      "option3": "Sister",
+      "option4": "Cousin"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 33,
+    "section": "Analytical Ability",
+    "questionStatement": "Five friends — A, B, C, D, E — scored different marks. A scored more than B. D scored less than E. C scored less than B but more than D. E scored less than A. Who scored the second highest?",
+    "options": {
+      "option1": "B",
+      "option2": "C",
+      "option3": "D",
+      "option4": "E"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 34,
+    "section": "Analytical Ability",
+    "questionStatement": "A is twice as good a worker as B, and together they finish a piece of work in 14 days. In how many days can A alone finish the work?",
+    "options": {
+      "option1": "18 days",
+      "option2": "21 days",
+      "option3": "24 days",
+      "option4": "28 days"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 35,
+    "section": "Analytical Ability",
+    "questionStatement": "A can do a piece of work in 10 days, B in 15 days. They work together for 5 days and then A leaves. In how many more days will B complete the remaining work?",
+    "options": {
+      "option1": "4.5 days",
+      "option2": "5 days",
+      "option3": "6 days",
+      "option4": "7.5 days"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 36,
+    "section": "Analytical Ability",
+    "questionStatement": "A train travels at 72 km/h and crosses a bridge 500 m long in 50 seconds. What is the length of the train?",
+    "options": {
+      "option1": "400 m",
+      "option2": "450 m",
+      "option3": "500 m",
+      "option4": "550 m"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 37,
+    "section": "Analytical Ability",
+    "questionStatement": "Two pipes A and B can fill a tank in 20 minutes and 30 minutes respectively. If both are opened simultaneously, but pipe B is closed after 10 minutes, how long will it take to fill the tank completely?",
+    "options": {
+      "option1": "10 minutes",
+      "option2": "12 minutes",
+      "option3": "14 minutes",
+      "option4": "16 minutes"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 38,
+    "section": "Analytical Ability",
+    "questionStatement": "The speed of a boat in still water is 15 km/h. It can go 30 km upstream and return downstream in a total of 4 hours 30 minutes. What is the speed of the current?",
+    "options": {
+      "option1": "3 km/h",
+      "option2": "4 km/h",
+      "option3": "5 km/h",
+      "option4": "6 km/h"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 39,
+    "section": "Analytical Ability",
+    "questionStatement": "A shopkeeper marks his goods 25% above the cost price and allows a discount of 10%. What is the profit percentage?",
+    "options": {
+      "option1": "10.5%",
+      "option2": "12.5%",
+      "option3": "13.5%",
+      "option4": "15%"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 40,
+    "section": "Analytical Ability",
+    "questionStatement": "The compound interest on Rs. 10,000 at 10% per annum for 3 years is:",
+    "options": {
+      "option1": "Rs. 3,000",
+      "option2": "Rs. 3,100",
+      "option3": "Rs. 3,310",
+      "option4": "Rs. 3,450"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 41,
+    "section": "Analytical Ability",
+    "questionStatement": "In how many ways can the letters of the word 'DELHI' be arranged so that the vowels always come together?",
+    "options": {
+      "option1": "24",
+      "option2": "36",
+      "option3": "48",
+      "option4": "72"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 42,
+    "section": "Analytical Ability",
+    "questionStatement": "A sum of money invested at compound interest amounts to Rs. 4840 in 2 years and Rs. 5324 in 3 years. What is the rate of interest per annum?",
+    "options": {
+      "option1": "8%",
+      "option2": "10%",
+      "option3": "11%",
+      "option4": "12%"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 43,
+    "section": "Analytical Ability",
+    "questionStatement": "There are 6 red and 4 blue balls in a bag. Two balls are drawn at random. What is the probability that both are red?",
+    "options": {
+      "option1": "1/3",
+      "option2": "2/5",
+      "option3": "1/3",
+      "option4": "1/3"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 44,
+    "section": "Analytical Ability",
+    "questionStatement": "The average of 11 results is 50. If the average of the first six is 49 and the last six is 52, what is the sixth result?",
+    "options": {
+      "option1": "50",
+      "option2": "52",
+      "option3": "56",
+      "option4": "60"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 45,
+    "section": "Analytical Ability",
+    "questionStatement": "A person standing on the bank of a river observes that the angle of elevation of a tree on the opposite bank is 60°. When he moves 40 m away from the bank, the angle of elevation becomes 30°. What is the width of the river?",
+    "options": {
+      "option1": "10 m",
+      "option2": "20 m",
+      "option3": "30 m",
+      "option4": "40 m"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 46,
+    "section": "Data Interpretation",
+    "passage": "Data for Q46–Q50: The following table shows production (in thousand tonnes) of four crops — Rice, Wheat, Maize, Pulses — in a state over five years. Year | Rice | Wheat | Maize | Pulses: 2019: 120, 100, 60, 40. 2020: 130, 110, 70, 45. 2021: 125, 105, 65, 50. 2022: 140, 120, 80, 55. 2023: 150, 130, 90, 60.",
+    "questionStatement": "What was the total production of all four crops in the year 2022 (in thousand tonnes)?",
+    "options": {
+      "option1": "375",
+      "option2": "385",
+      "option3": "395",
+      "option4": "405"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 47,
+    "section": "Data Interpretation",
+    "passage": "Data for Q46–Q50: Same table as Q46.",
+    "questionStatement": "Which crop showed the highest percentage increase in production from 2019 to 2023?",
+    "options": {
+      "option1": "Rice",
+      "option2": "Wheat",
+      "option3": "Maize",
+      "option4": "Pulses"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 48,
+    "section": "Data Interpretation",
+    "passage": "Data for Q46–Q50: Same table as Q46.",
+    "questionStatement": "What is the average production of Wheat over the five years (in thousand tonnes)?",
+    "options": {
+      "option1": "109",
+      "option2": "111",
+      "option3": "113",
+      "option4": "115"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 49,
+    "section": "Data Interpretation",
+    "passage": "Data for Q46–Q50: Same table as Q46.",
+    "questionStatement": "In which year did the production of Maize first exceed 75 thousand tonnes?",
+    "options": {
+      "option1": "2020",
+      "option2": "2021",
+      "option3": "2022",
+      "option4": "2023"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 50,
+    "section": "Data Interpretation",
+    "passage": "Data for Q46–Q50: Same table as Q46.",
+    "questionStatement": "What is the ratio of total Rice production to total Pulses production over all five years?",
+    "options": {
+      "option1": "3:1",
+      "option2": "665:250",
+      "option3": "133:50",
+      "option4": "Both option2 and option3 are equivalent and correct"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 51,
+    "section": "Data Interpretation",
+    "passage": "Data for Q51–Q55: A pie chart shows the budget allocation (%) of a state government. Education: 25%, Health: 20%, Infrastructure: 30%, Agriculture: 15%, Others: 10%. Total budget = Rs. 4000 crore.",
+    "questionStatement": "How much amount (in crore) is allocated to Health and Education together?",
+    "options": {
+      "option1": "Rs. 1600 crore",
+      "option2": "Rs. 1800 crore",
+      "option3": "Rs. 2000 crore",
+      "option4": "Rs. 2200 crore"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 52,
+    "section": "Data Interpretation",
+    "passage": "Data for Q51–Q55: Same pie chart as Q51.",
+    "questionStatement": "What is the ratio of Infrastructure allocation to Agriculture allocation?",
+    "options": {
+      "option1": "2:1",
+      "option2": "3:1",
+      "option3": "4:1",
+      "option4": "5:1"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 53,
+    "section": "Data Interpretation",
+    "passage": "Data for Q51–Q55: Same pie chart as Q51.",
+    "questionStatement": "If the total budget is increased by 10% next year and the Education percentage remains the same, what will be the new amount for Education?",
+    "options": {
+      "option1": "Rs. 1000 crore",
+      "option2": "Rs. 1050 crore",
+      "option3": "Rs. 1100 crore",
+      "option4": "Rs. 1150 crore"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 54,
+    "section": "Data Interpretation",
+    "passage": "Data for Q51–Q55: Same pie chart as Q51.",
+    "questionStatement": "By how much does the Infrastructure allocation exceed the Health allocation (in crore)?",
+    "options": {
+      "option1": "Rs. 300 crore",
+      "option2": "Rs. 400 crore",
+      "option3": "Rs. 450 crore",
+      "option4": "Rs. 500 crore"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 55,
+    "section": "Data Interpretation",
+    "passage": "Data for Q51–Q55: Same pie chart as Q51.",
+    "questionStatement": "If 'Others' allocation is redistributed equally among all other four heads, what will be the new percentage for Agriculture?",
+    "options": {
+      "option1": "17%",
+      "option2": "17.5%",
+      "option3": "18%",
+      "option4": "18.5%"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 56,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "The sum of the first 20 natural numbers is:",
+    "options": {
+      "option1": "180",
+      "option2": "190",
+      "option3": "200",
+      "option4": "210"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 57,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "If a:b = 3:4 and b:c = 5:6, what is a:b:c?",
+    "options": {
+      "option1": "15:20:24",
+      "option2": "12:16:20",
+      "option3": "9:12:15",
+      "option4": "3:4:6"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 58,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "The HCF and LCM of two numbers are 12 and 240 respectively. If one number is 48, what is the other number?",
+    "options": {
+      "option1": "50",
+      "option2": "55",
+      "option3": "60",
+      "option4": "72"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 59,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "A boat takes 8 hours to go 48 km downstream and returns in 12 hours. What is the speed of the current?",
+    "options": {
+      "option1": "1 km/h",
+      "option2": "1.5 km/h",
+      "option3": "2 km/h",
+      "option4": "2.5 km/h"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 60,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "The difference between simple and compound interest on a sum of Rs. 5000 for 2 years at 8% per annum is:",
+    "options": {
+      "option1": "Rs. 28",
+      "option2": "Rs. 30",
+      "option3": "Rs. 32",
+      "option4": "Rs. 35"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 61,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "Find the value of x: 3x + 5 = 2x + 17. Now, if 4y = 3x, find y.",
+    "options": {
+      "option1": "6",
+      "option2": "7",
+      "option3": "9",
+      "option4": "12"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 62,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "A cube has a volume of 1728 cm³. What is the total surface area of the cube?",
+    "options": {
+      "option1": "756 cm²",
+      "option2": "864 cm²",
+      "option3": "900 cm²",
+      "option4": "936 cm²"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 63,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "Rs. 2000 is invested at 5% per annum simple interest. How long will it take to amount to Rs. 2500?",
+    "options": {
+      "option1": "3 years",
+      "option2": "4 years",
+      "option3": "5 years",
+      "option4": "6 years"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 64,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "A mixture contains milk and water in the ratio 4:1. If 10 litres of water is added, the ratio becomes 2:1. What is the original quantity of milk?",
+    "options": {
+      "option1": "30 litres",
+      "option2": "40 litres",
+      "option3": "50 litres",
+      "option4": "60 litres"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 65,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "The perimeter of a rectangle is 60 m. If its length is twice its breadth, what is the area of the rectangle?",
+    "options": {
+      "option1": "180 m²",
+      "option2": "200 m²",
+      "option3": "220 m²",
+      "option4": "250 m²"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 66,
+    "section": "Reading Comprehension",
+    "passage": "Passage 5 (Q66–Q69): India's demographic story is at a critical juncture. With the median age of the population around 28 years, India has a young workforce that could drive economic growth for decades. This window of opportunity — the 'demographic dividend' — will not last forever. By 2050, the dependency ratio is expected to rise sharply as a large cohort of the current working population ages. The challenge before policymakers is twofold: to create enough jobs for the millions entering the workforce every year, and to invest in their education and health so that they are employable. Without this dual investment, the demographic dividend could reverse into a demographic disaster.",
+    "questionStatement": "According to the passage, what is the 'demographic dividend'?",
+    "options": {
+      "option1": "The economic benefit arising from a high birth rate",
+      "option2": "The economic growth potential from having a large proportion of working-age population",
+      "option3": "The financial surplus generated by reducing government pension payments",
+      "option4": "The growth in per capita income due to lower death rates"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 67,
+    "section": "Reading Comprehension",
+    "passage": "Passage 5 (Q66–Q69): Same as above.",
+    "questionStatement": "What does the author mean by 'demographic disaster'?",
+    "options": {
+      "option1": "Natural disasters caused by population pressure",
+      "option2": "A large, uneducated and unemployed young population that becomes a liability instead of an asset",
+      "option3": "Overpopulation leading to food insecurity",
+      "option4": "A rapid decline in birth rates leading to population collapse"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 68,
+    "section": "Reading Comprehension",
+    "passage": "Passage 5 (Q66–Q69): Same as above.",
+    "questionStatement": "The passage identifies a 'twofold challenge' for policymakers. Which of the following correctly captures this?",
+    "options": {
+      "option1": "Reducing birth rates and increasing immigration",
+      "option2": "Creating sufficient jobs and investing in education and health of the workforce",
+      "option3": "Increasing GDP and reducing the fiscal deficit",
+      "option4": "Reforming the pension system and reducing the dependency ratio"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 69,
+    "section": "Reading Comprehension",
+    "passage": "Passage 5 (Q66–Q69): Same as above.",
+    "questionStatement": "Which of the following can be inferred from the passage?",
+    "options": {
+      "option1": "India is the only country facing the challenge of a demographic dividend",
+      "option2": "The demographic window is permanent and does not require urgent policy action",
+      "option3": "Failure to create jobs and invest in skills could turn a potential economic advantage into a setback",
+      "option4": "The dependency ratio in India is currently very high"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 70,
+    "section": "Logical Reasoning",
+    "questionStatement": "Consider the following: Some politicians are honest. All honest people are hard-working. Conclusions: I. Some politicians are hard-working. II. All hard-working people are honest. Which is correct?",
+    "options": {
+      "option1": "Only Conclusion I follows",
+      "option2": "Only Conclusion II follows",
+      "option3": "Both follow",
+      "option4": "Neither follows"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 71,
+    "section": "Logical Reasoning",
+    "questionStatement": "In a certain code, APPLE is written as BQQMF. Using the same code, how is MANGO written?",
+    "options": {
+      "option1": "NBOHO",
+      "option2": "NBOHP",
+      "option3": "NCOIP",
+      "option4": "MBOHO"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 72,
+    "section": "Logical Reasoning",
+    "questionStatement": "If 'white' means 'black', 'black' means 'red', 'red' means 'yellow', 'yellow' means 'blue', 'blue' means 'green', what is the colour of the sky?",
+    "options": {
+      "option1": "Blue",
+      "option2": "Green",
+      "option3": "Yellow",
+      "option4": "Red"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 73,
+    "section": "Analytical Ability",
+    "questionStatement": "12 men can complete a work in 8 days. 16 women can complete the same work in 12 days. In how many days can 4 men and 8 women together complete the work?",
+    "options": {
+      "option1": "8 days",
+      "option2": "10 days",
+      "option3": "12 days",
+      "option4": "16 days"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 74,
+    "section": "Analytical Ability",
+    "questionStatement": "The price of an article was first increased by 20% and then decreased by 20%. What is the net effect on the price?",
+    "options": {
+      "option1": "No change",
+      "option2": "4% decrease",
+      "option3": "4% increase",
+      "option4": "2% decrease"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 75,
+    "section": "Analytical Ability",
+    "questionStatement": "A and B start from the same point and move in opposite directions around a circular track of 400 m. A walks at 5 m/s and B at 3 m/s. When will they first meet?",
+    "options": {
+      "option1": "40 seconds",
+      "option2": "50 seconds",
+      "option3": "60 seconds",
+      "option4": "80 seconds"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 76,
+    "section": "Analytical Ability",
+    "questionStatement": "A man sold two articles at Rs. 990 each. On one he gained 10% and on the other he lost 10%. What was his overall profit or loss?",
+    "options": {
+      "option1": "1% profit",
+      "option2": "No profit, no loss",
+      "option3": "1% loss",
+      "option4": "2% loss"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 77,
+    "section": "Analytical Ability",
+    "questionStatement": "The ages of A and B are in the ratio 5:7. Four years hence, the ratio will be 3:4. What are their present ages?",
+    "options": {
+      "option1": "20 and 28",
+      "option2": "25 and 35",
+      "option3": "15 and 21",
+      "option4": "10 and 14"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 78,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "A number when divided by 6 leaves a remainder of 3. What is the remainder when the square of that number is divided by 6?",
+    "options": {
+      "option1": "0",
+      "option2": "1",
+      "option3": "3",
+      "option4": "4"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 79,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "The ratio of the number of boys to girls in a school is 4:3. If there are 280 boys, how many girls are there?",
+    "options": {
+      "option1": "180",
+      "option2": "200",
+      "option3": "210",
+      "option4": "240"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 80,
+    "section": "Quantitative Aptitude",
+    "questionStatement": "A cistern has two inlet pipes A and B and one outlet pipe C. A fills it in 10 hours, B in 12 hours, and C empties it in 15 hours. If all three are opened together, in how many hours will the empty cistern be filled?",
+    "options": {
+      "option1": "8 hours",
+      "option2": "9 hours",
+      "option3": "10 hours",
+      "option4": "12 hours"
+    },
+    "correctOption": "option3"
+  }
+]
