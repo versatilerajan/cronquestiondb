@@ -1,0 +1,827 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStatement": "Consider the following statements about the 'Directive Principles of State Policy (DPSP)': 1. DPSPs are non-justiciable but fundamental in governance. 2. Article 44 of the Constitution directs the State to secure a Uniform Civil Code. 3. DPSPs were borrowed from the Constitution of Ireland. Which of the above is/are correct?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 2,
+    "questionStatement": "Which of the following writs is issued by a superior court to a lower court or tribunal to prevent it from exceeding its jurisdiction?",
+    "options": {
+      "option1": "Certiorari",
+      "option2": "Prohibition",
+      "option3": "Mandamus",
+      "option4": "Quo Warranto"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 3,
+    "questionStatement": "Consider the following statements about the 'Governor' of a State: 1. The Governor is appointed by the President on the advice of the Prime Minister. 2. The Governor can reserve a Bill for the consideration of the President. 3. The Governor has no discretionary powers under the Constitution. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 4,
+    "questionStatement": "The 'Wavell Plan' of 1945 proposed which of the following?",
+    "options": {
+      "option1": "Complete independence to India",
+      "option2": "An Executive Council with equal representation of Caste Hindus and Muslims",
+      "option3": "Partition of India into two separate nations",
+      "option4": "A federal government with provinces having full autonomy"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 5,
+    "questionStatement": "With reference to the 'Rowlatt Act, 1919', which of the following statements is correct?",
+    "options": {
+      "option1": "It allowed detention of political prisoners without trial",
+      "option2": "It established a separate electorate for Muslims",
+      "option3": "It granted limited self-governance to Indian provinces",
+      "option4": "It banned public gatherings of more than five persons"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 6,
+    "questionStatement": "Consider the following pairs: 1. Eutrophication – Excess nutrient enrichment of water bodies 2. Biomagnification – Increase in concentration of pollutants at higher trophic levels 3. Bioaccumulation – Decrease in concentration of toxins in organisms over time Which of the above pairs are correctly matched?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 7,
+    "questionStatement": "Which of the following describes 'Submarine Canyon'?",
+    "options": {
+      "option1": "A deep valley on the ocean floor cut by turbidity currents",
+      "option2": "An underwater mountain range",
+      "option3": "A flat plain at the bottom of the ocean",
+      "option4": "A coral reef formation near continental shelves"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 8,
+    "questionStatement": "Consider the following about 'Fog': 1. Radiation fog forms on clear, calm nights when the ground loses heat rapidly. 2. Advection fog forms when warm moist air moves over a cold surface. 3. Both types of fog are more common in summer months in India. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 9,
+    "questionStatement": "The 'Abhinav Bharat' secret society was founded by:",
+    "options": {
+      "option1": "Bal Gangadhar Tilak",
+      "option2": "Vinayak Damodar Savarkar",
+      "option3": "Lala Lajpat Rai",
+      "option4": "Bipin Chandra Pal"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 10,
+    "questionStatement": "Which of the following correctly describes 'Negative Interest Rate Policy (NIRP)'?",
+    "options": {
+      "option1": "A policy where banks charge depositors for keeping money, encouraging spending and investment",
+      "option2": "A policy that reduces taxes to negative levels to boost consumption",
+      "option3": "A policy where the government pays citizens to borrow money",
+      "option4": "A monetary tool that reduces the money supply to fight inflation"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 11,
+    "questionStatement": "Consider the following statements about India's 'Scheduled Areas': 1. They are governed under the Fifth Schedule of the Constitution. 2. The President is empowered to declare any area as a Scheduled Area. 3. The Sixth Schedule deals with tribal administration in certain northeastern states. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 12,
+    "questionStatement": "The 'Stern Review' is associated with which of the following?",
+    "options": {
+      "option1": "Economics of climate change",
+      "option2": "International trade liberalization",
+      "option3": "Banking sector regulation",
+      "option4": "Nuclear non-proliferation"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 13,
+    "questionStatement": "Which of the following are correctly matched regarding India's mineral resources? 1. Jharkhand – Iron ore 2. Rajasthan – Lead and Zinc 3. Odisha – Bauxite Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 14,
+    "questionStatement": "Consider the following about the 'Kyoto Protocol': 1. It was adopted in 1997 and entered into force in 2005. 2. It set binding emission reduction targets only for developed countries (Annex I nations). 3. The USA ratified the Kyoto Protocol and met its targets. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 15,
+    "questionStatement": "Which of the following is the correct description of 'Fiscal Consolidation'?",
+    "options": {
+      "option1": "Increase in government expenditure to stimulate growth",
+      "option2": "Gradual reduction of fiscal deficit as a proportion of GDP",
+      "option3": "Merging of multiple fiscal authorities into one",
+      "option4": "Conversion of revenue deficit into capital surplus"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 16,
+    "questionStatement": "Consider the following about India's 'Delimitation Commission': 1. It is a constitutional body mentioned under Article 82. 2. Its orders cannot be questioned before any court. 3. It redraws parliamentary and state assembly constituencies after each census. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 17,
+    "questionStatement": "Which of the following describes the 'Morley-Minto Reforms' of 1909?",
+    "options": {
+      "option1": "First introduction of elections to legislative councils and separate electorates for Muslims",
+      "option2": "Granting Dominion Status to India",
+      "option3": "Introduction of dyarchy in the provinces",
+      "option4": "Establishment of a bicameral legislature at the Centre"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 18,
+    "questionStatement": "Consider the following about the 'National Food Security Act, 2013': 1. It covers up to 75% of the rural population and 50% of the urban population. 2. It provides subsidized foodgrains under the Targeted Public Distribution System. 3. Pregnant women and lactating mothers are entitled to free meals under the Act. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 19,
+    "questionStatement": "Which of the following is/are correctly matched? 1. Article 343 – Official language of the Union 2. Article 348 – Language to be used in the Supreme Court 3. Article 350A – Facilities for instruction in mother tongue at primary stage Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 20,
+    "questionStatement": "Which of the following best describes 'Quantitative Easing (QE)'?",
+    "options": {
+      "option1": "Central bank raising interest rates to control inflation",
+      "option2": "Central bank purchasing long-term securities to inject liquidity into the economy",
+      "option3": "Government raising taxes to reduce fiscal deficit",
+      "option4": "Reduction in reserve ratios to allow more bank lending"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 21,
+    "questionStatement": "Consider the following about the 'UNFCCC': 1. It was established at the Earth Summit in Rio de Janeiro in 1992. 2. The Paris Agreement and Kyoto Protocol are under UNFCCC. 3. UNFCCC follows the principle of 'Common but Differentiated Responsibilities'. Which is/are correct?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 22,
+    "questionStatement": "Which of the following describes the 'Dual Citizenship' provision that India does NOT follow?",
+    "options": {
+      "option1": "One person can hold citizenship of two countries simultaneously",
+      "option2": "Citizens can hold both Union and State citizenship",
+      "option3": "OCI cardholders have full voting rights in India",
+      "option4": "NRIs can hold passports of two countries"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 23,
+    "questionStatement": "Consider the following about the 'Niti Aayog': 1. It replaced the Planning Commission in 2015. 2. The Prime Minister is the ex-officio Chairperson of NITI Aayog. 3. It has the power to allocate funds to states like the erstwhile Planning Commission. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 24,
+    "questionStatement": "The term 'Shrinkflation' in economics refers to:",
+    "options": {
+      "option1": "Reduction in the size or quantity of a product while maintaining the same price",
+      "option2": "Rapid deflation leading to economic contraction",
+      "option3": "A fall in real wages due to inflation",
+      "option4": "Reduction in money supply causing price fall"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 25,
+    "questionStatement": "Which of the following lakes in India are correctly matched with their type of origin? 1. Chilika Lake – Lagoon 2. Wular Lake – Tectonic origin 3. Lonar Lake – Volcanic/Meteorite crater Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 26,
+    "questionStatement": "Consider the following about 'Social Audit': 1. It is a process to assess the social impact of government schemes by communities. 2. MGNREGA mandates social audits by Gram Sabhas. 3. Social audits have statutory backing under the RTI Act. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 27,
+    "questionStatement": "Which of the following are features of the Concurrent List in India? 1. Both Parliament and State Legislatures can legislate on subjects in this list. 2. In case of conflict, Central law prevails over State law. 3. The Concurrent List does not exist in the USA. Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 28,
+    "questionStatement": "Which of the following best describes 'Horizontal Equity' in taxation?",
+    "options": {
+      "option1": "People with equal income should be taxed equally",
+      "option2": "People with higher income should pay more tax",
+      "option3": "Tax burden should be shared between direct and indirect taxes",
+      "option4": "Tax rates should be the same across all income groups"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 29,
+    "questionStatement": "Consider the following statements about the 'Tibetan Plateau': 1. It is the world's highest and largest plateau, often called the 'Roof of the World'. 2. Major rivers like Yangtze, Mekong, and Brahmaputra originate from it. 3. It has a tropical monsoon climate due to its proximity to the equator. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 30,
+    "questionStatement": "Which of the following is not a function of the Election Commission of India?",
+    "options": {
+      "option1": "Superintendence of elections to Parliament and State Legislatures",
+      "option2": "Registration of political parties",
+      "option3": "Allotment of election symbols",
+      "option4": "Determining the validity of election of President of India"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 31,
+    "questionStatement": "Consider the following about India's 'Geographical Indications (GI)': 1. GI tags are governed under the Geographical Indications of Goods (Registration and Protection) Act, 1999. 2. Darjeeling Tea was the first product in India to receive a GI tag. 3. GI registration in India is valid for 10 years and can be renewed. Which is/are correct?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 32,
+    "questionStatement": "Which of the following correctly explains the 'Baumol Effect' (Baumol's Cost Disease)?",
+    "options": {
+      "option1": "Rising costs in service sectors even without productivity gains, due to wage parity with productive sectors",
+      "option2": "Decline in agricultural productivity due to overuse of fertilizers",
+      "option3": "Rising healthcare costs due to an ageing population",
+      "option4": "Cost inflation in manufacturing due to rising oil prices"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 33,
+    "questionStatement": "Consider the following about 'Mangroves': 1. They grow in tropical and subtropical intertidal zones. 2. They act as carbon sinks and protect coastlines from erosion. 3. India has the largest area of mangrove forests in the world. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 34,
+    "questionStatement": "Which of the following correctly describes the 'Marginal Standing Facility (MSF)'?",
+    "options": {
+      "option1": "A facility where scheduled commercial banks can borrow overnight from RBI above the Repo Rate",
+      "option2": "A scheme to provide credit to marginal farmers",
+      "option3": "A fund established by RBI for crisis management of weak banks",
+      "option4": "An emergency lending window for non-banking financial companies"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 35,
+    "questionStatement": "Consider the following about the 'Chemical Weapons Convention (CWC)': 1. India is a signatory to the CWC. 2. The CWC is monitored by the Organisation for the Prohibition of Chemical Weapons (OPCW). 3. North Korea and Israel have ratified the CWC. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 36,
+    "questionStatement": "Which of the following constitutional provisions relate to the 'Rights of Minorities'? 1. Article 29 – Right to conserve culture 2. Article 30 – Right to establish and administer educational institutions 3. Article 32 – Right to constitutional remedies for minorities only Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 37,
+    "questionStatement": "Which of the following is the correct meaning of 'Demographic Dividend'?",
+    "options": {
+      "option1": "Economic benefit from a large elderly population requiring social services",
+      "option2": "Economic growth potential from a large working-age population relative to dependents",
+      "option3": "Increased tax revenue from high birth rates",
+      "option4": "Productivity gains from a highly educated population regardless of age structure"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 38,
+    "questionStatement": "Consider the following about the 'National Disaster Management Authority (NDMA)': 1. It was established under the Disaster Management Act, 2005. 2. The Prime Minister is the ex-officio Chairperson of NDMA. 3. NDMA lays down guidelines and policies on disaster management. Which is/are correct?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 39,
+    "questionStatement": "Which of the following rivers in India flow through rift valleys? 1. Narmada 2. Tapi 3. Damodar Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 40,
+    "questionStatement": "The 'Syadvada' and 'Anekantavada' doctrines are associated with which ancient Indian philosophy?",
+    "options": {
+      "option1": "Buddhism",
+      "option2": "Jainism",
+      "option3": "Charvaka",
+      "option4": "Nyaya"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 41,
+    "questionStatement": "Consider the following about the 'Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)': 1. It provides Rs. 6,000 per year to eligible farmer families in three installments. 2. The scheme covers all landholding farmers including institutional landholders. 3. It is a 100% centrally funded scheme. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 3 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 42,
+    "questionStatement": "Which of the following correctly describes 'Mission Indradhanush'?",
+    "options": {
+      "option1": "A scheme for rural electrification",
+      "option2": "A comprehensive immunization program targeting unvaccinated and partially vaccinated children",
+      "option3": "A program for skill development in tribal areas",
+      "option4": "A solar energy mission for northeastern states"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 43,
+    "questionStatement": "Which of the following correctly describes 'Nitrogen Fixation'?",
+    "options": {
+      "option1": "Conversion of atmospheric nitrogen into ammonia by microorganisms",
+      "option2": "Release of nitrogen from organic matter during decomposition",
+      "option3": "Absorption of nitrogen by plant leaves from the atmosphere",
+      "option4": "Conversion of nitrates into free nitrogen by denitrifying bacteria"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 44,
+    "questionStatement": "Consider the following about the 'Goods and Services Tax (GST)' in India: 1. It is a destination-based consumption tax. 2. IGST is levied on inter-state supply of goods and services. 3. The GST Council is a constitutional body under Article 279A. Which is/are correct?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 45,
+    "questionStatement": "Which of the following best describes the 'Stockholm Syndrome'?",
+    "options": {
+      "option1": "A psychological response where hostages develop empathy towards their captors",
+      "option2": "A geopolitical doctrine of neutrality first proposed in Sweden",
+      "option3": "An economic theory about trade relationships between Nordic countries",
+      "option4": "A legal principle granting immunity to whistleblowers"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 46,
+    "questionStatement": "Consider the following about the 'Indian Ocean Rim Association (IORA)': 1. India is a founding member of IORA. 2. IORA has 23 member states and 10 dialogue partners. 3. Its secretariat is located in Ebene, Mauritius. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 3 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 47,
+    "questionStatement": "Which of the following correctly explains the 'Hot Money' concept in international finance?",
+    "options": {
+      "option1": "Capital that moves rapidly between financial markets to take advantage of interest rate differentials",
+      "option2": "Funds generated through illicit means in the black market",
+      "option3": "Foreign direct investment in high-risk industries",
+      "option4": "Funds allocated by central banks for emergency liquidity"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 48,
+    "questionStatement": "The 'Atal Mission for Rejuvenation and Urban Transformation (AMRUT)' primarily focuses on: 1. Water supply 2. Sewerage facilities 3. Urban transport 4. Urban green spaces Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "1, 2 and 3 only",
+      "option3": "1, 2 and 4 only",
+      "option4": "1, 2, 3 and 4"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 49,
+    "questionStatement": "Consider the following about the 'Pradhan Mantri Awaas Yojana (PMAY)': 1. PMAY-Urban targets housing for all in urban areas. 2. It uses Light House Projects to demonstrate new construction technologies. 3. The scheme was launched in 2015. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 50,
+    "questionStatement": "Which of the following is correctly matched with the country that chairs/hosted the forum? 1. BRICS 2023 Summit – South Africa 2. SCO 2023 Summit – India 3. G7 2023 Summit – Japan Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 51,
+    "questionStatement": "A train passes a station platform in 36 seconds and a man standing on the platform in 20 seconds. If the speed of the train is 54 km/h, what is the length of the platform?",
+    "options": {
+      "option1": "200 m",
+      "option2": "220 m",
+      "option3": "240 m",
+      "option4": "260 m"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 52,
+    "questionStatement": "The average of five consecutive odd numbers is 55. What is the largest of these numbers?",
+    "options": {
+      "option1": "57",
+      "option2": "59",
+      "option3": "61",
+      "option4": "63"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 53,
+    "questionStatement": "A and B invest Rs. 3000 and Rs. 4000 respectively in a business. A receives 10% of the profit as salary and the remaining profit is divided in proportion to their investments. If A's total income is Rs. 800 and B's income is Rs. 600, what is the total profit?",
+    "options": {
+      "option1": "Rs. 1300",
+      "option2": "Rs. 1400",
+      "option3": "Rs. 1500",
+      "option4": "Rs. 1600"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 54,
+    "questionStatement": "In a certain language, if PAINT is coded as 74128 and EXCEL is coded as 93596, then what is the code for PLANE?",
+    "options": {
+      "option1": "79415",
+      "option2": "79425",
+      "option3": "79145",
+      "option4": "79245"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 55,
+    "questionStatement": "Read the following argument: 'No politicians are honest. Some honest people are singers. Therefore ____.' Which of the following conclusions is definitely true?",
+    "options": {
+      "option1": "Some singers are politicians",
+      "option2": "No singers are politicians",
+      "option3": "Some politicians are singers",
+      "option4": "No conclusion about politicians and singers can be drawn"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 56,
+    "questionStatement": "A pipe fills a tank in 20 hours. Another pipe drains the tank in 30 hours. If both pipes are opened simultaneously when the tank is half full, how long will it take to fill the tank completely?",
+    "options": {
+      "option1": "30 hours",
+      "option2": "40 hours",
+      "option3": "50 hours",
+      "option4": "60 hours"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 57,
+    "questionStatement": "If the compound interest on a sum for 2 years at 10% per annum is Rs. 420, what is the simple interest on the same sum at the same rate for the same period?",
+    "options": {
+      "option1": "Rs. 380",
+      "option2": "Rs. 390",
+      "option3": "Rs. 400",
+      "option4": "Rs. 410"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 58,
+    "questionStatement": "Six persons A, B, C, D, E, and F are sitting in a row. B is between F and D. E is between A and C. A does not sit next to F or D. C does not sit next to D. Who is sitting in the middle?",
+    "options": {
+      "option1": "B and E",
+      "option2": "C and F",
+      "option3": "A and D",
+      "option4": "F and E"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 59,
+    "questionStatement": "A student scores 70% in one subject, 80% in another, and 60% in a third. If all subjects have equal maximum marks, what is the student's overall percentage?",
+    "options": {
+      "option1": "66.67%",
+      "option2": "68%",
+      "option3": "70%",
+      "option4": "72%"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 60,
+    "questionStatement": "If the sum of three consecutive even numbers is 78, what is the product of the smallest and the largest?",
+    "options": {
+      "option1": "624",
+      "option2": "640",
+      "option3": "660",
+      "option4": "680"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 61,
+    "questionStatement": "Consider the following about 'Project Tiger' in India: 1. It was launched in 1973. 2. It is administered by the National Tiger Conservation Authority (NTCA). 3. India currently has more than 50 tiger reserves. Which is/are correct?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 62,
+    "questionStatement": "Which of the following correctly describes the 'Maslow's Hierarchy of Needs' in the context of public policy?",
+    "options": {
+      "option1": "A framework suggesting that higher-order needs like self-actualization must be met before basic needs",
+      "option2": "A model suggesting that basic physiological and safety needs must be met before higher social and self-fulfillment needs",
+      "option3": "An economic model linking government spending to citizen wellbeing",
+      "option4": "A framework explaining how public welfare programmes should be funded"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 63,
+    "questionStatement": "Consider the following statements about the 'Public Distribution System (PDS)' in India: 1. The PDS is managed jointly by the Central and State Governments. 2. Antyodaya Anna Yojana (AAY) targets the poorest of the poor under PDS. 3. The Central Government is responsible for procurement, storage, and transportation to state depots. Which is/are correct?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 64,
+    "questionStatement": "Which of the following best describes 'Peer-to-Peer (P2P) Lending'?",
+    "options": {
+      "option1": "A form of digital currency backed by central banks",
+      "option2": "An online platform that connects borrowers directly with lenders without traditional financial intermediaries",
+      "option3": "A bank-regulated scheme for microfinance in rural areas",
+      "option4": "A mechanism for inter-bank overnight lending regulated by RBI"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 65,
+    "questionStatement": "Consider the following about the 'Antarctic Treaty': 1. It was signed in 1959 and came into force in 1961. 2. It designates Antarctica as a scientific preserve and bans military activity. 3. India has ratified the Antarctic Treaty and has permanent research stations there. Which is/are correct?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 66,
+    "questionStatement": "Which of the following is the correct description of 'Preponderance of Evidence' as used in civil law?",
+    "options": {
+      "option1": "Evidence that is more convincing than the opposing evidence, sufficient to establish facts on balance of probability",
+      "option2": "Evidence that establishes guilt beyond all reasonable doubt",
+      "option3": "Evidence provided only by expert witnesses",
+      "option4": "Evidence collected before the filing of a case"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 67,
+    "questionStatement": "With reference to India's 'Sovereign Gold Bond (SGB) Scheme', which of the following is/are correct? 1. SGBs are issued by the RBI on behalf of the Government of India. 2. The bonds earn a fixed interest of 2.5% per annum on the initial investment. 3. On redemption, capital gains tax is fully exempt for individual investors. Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 68,
+    "questionStatement": "Consider the following about India's 'Act East Policy': 1. It is an evolution of the earlier 'Look East Policy' launched in 1991. 2. It focuses on connectivity and economic integration with Southeast and East Asian countries. 3. The Act East Policy includes defence and security cooperation in its scope. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 69,
+    "questionStatement": "Which of the following describe characteristics of 'Alluvial Fans'?",
+    "options": {
+      "option1": "Fan-shaped deposits formed where a fast-flowing stream enters a flat plain or valley",
+      "option2": "Deposits formed at the bottom of a waterfall where erosion is intense",
+      "option3": "Coastal features formed by deposition of sediments by ocean waves",
+      "option4": "Underground deposits of alluvium in karst landscapes"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 70,
+    "questionStatement": "Consider the following about the 'Right to Information (RTI) Act, 2005': 1. It covers all authorities under Central, State, and local governments. 2. The Central Information Commission has the power to impose penalties on Public Information Officers. 3. Information pertaining to national security can never be disclosed under RTI. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 71,
+    "questionStatement": "Which of the following describes the 'Cantillon Effect' in economics?",
+    "options": {
+      "option1": "The uneven distribution of benefits from new money creation, favouring those who receive it first",
+      "option2": "The tendency of prices to rise proportionally when money supply increases",
+      "option3": "A paradox where individual savings lead to collective economic decline",
+      "option4": "The economic impact of colonial extraction on developing economies"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 72,
+    "questionStatement": "Consider the following about the 'Insolvency and Bankruptcy Code (IBC), 2016': 1. It provides a time-bound process of insolvency resolution within 330 days. 2. The National Company Law Tribunal (NCLT) is the adjudicating authority for corporate insolvency. 3. IBC does not apply to financial service providers like banks. Which is/are correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 73,
+    "questionStatement": "Which of the following describe features of 'Dark Matter' in cosmology? 1. It does not emit, absorb, or reflect light. 2. Its presence is inferred through gravitational effects on visible matter. 3. Dark matter constitutes approximately 27% of the universe's total mass-energy. Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 74,
+    "questionStatement": "The 'Triffin Dilemma' is associated with which of the following issues in international economics?",
+    "options": {
+      "option1": "The conflict between domestic monetary policy goals and the role of a national currency as the global reserve currency",
+      "option2": "The difficulty of maintaining fixed exchange rates in a globalized economy",
+      "option3": "The inability of developing nations to access international credit markets",
+      "option4": "The paradox of thrift in open economies"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 75,
+    "questionStatement": "Consider the following about the 'Biological Diversity Act, 2002' of India: 1. It establishes the National Biodiversity Authority at the national level. 2. State Biodiversity Boards are constituted under it at the state level. 3. Biodiversity Management Committees are set up at the panchayat level. Which is/are correct?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  }
+]
