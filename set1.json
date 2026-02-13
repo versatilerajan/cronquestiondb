@@ -1,0 +1,827 @@
+[
+  {
+    "questionNumber": 1,
+    "questionStatement": "With reference to the Preamble of the Indian Constitution, which of the following words were added by the 42nd Constitutional Amendment? 1. Socialist 2. Secular 3. Integrity Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 2,
+    "questionStatement": "Which of the following is/are features of a Federal Constitution? 1. Written Constitution 2. Division of Powers 3. Supremacy of Judiciary",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 3,
+    "questionStatement": "The term 'Judicial Review' in India is derived from which country?",
+    "options": {
+      "option1": "UK",
+      "option2": "USA",
+      "option3": "France",
+      "option4": "Canada"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 4,
+    "questionStatement": "Which of the following movements was launched by Mahatma Gandhi in 1917?",
+    "options": {
+      "option1": "Non-Cooperation Movement",
+      "option2": "Civil Disobedience Movement",
+      "option3": "Champaran Satyagraha",
+      "option4": "Quit India Movement"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 5,
+    "questionStatement": "Consider the following statements regarding Fundamental Rights: 1. They are enforceable by courts. 2. They can be suspended during National Emergency. Which is correct?",
+    "options": {
+      "option1": "1 only",
+      "option2": "2 only",
+      "option3": "Both 1 and 2",
+      "option4": "Neither 1 nor 2"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 6,
+    "questionStatement": "Which river is known as the 'Dakshin Ganga'?",
+    "options": {
+      "option1": "Krishna",
+      "option2": "Godavari",
+      "option3": "Kaveri",
+      "option4": "Mahanadi"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 7,
+    "questionStatement": "The Tropic of Cancer passes through how many Indian States?",
+    "options": {
+      "option1": "6",
+      "option2": "7",
+      "option3": "8",
+      "option4": "9"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 8,
+    "questionStatement": "Which Schedule of the Constitution contains the list of languages recognized by the Constitution?",
+    "options": {
+      "option1": "7th Schedule",
+      "option2": "8th Schedule",
+      "option3": "9th Schedule",
+      "option4": "10th Schedule"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 9,
+    "questionStatement": "Green Revolution in India is mainly associated with which crop?",
+    "options": {
+      "option1": "Rice",
+      "option2": "Wheat",
+      "option3": "Cotton",
+      "option4": "Sugarcane"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 10,
+    "questionStatement": "The Battle of Buxar was fought in which year?",
+    "options": {
+      "option1": "1757",
+      "option2": "1764",
+      "option3": "1773",
+      "option4": "1784"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 11,
+    "questionStatement": "Which organization releases the World Development Report?",
+    "options": {
+      "option1": "IMF",
+      "option2": "World Bank",
+      "option3": "UNDP",
+      "option4": "WTO"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 12,
+    "questionStatement": "Consider the following gases: 1. Carbon dioxide 2. Methane 3. Nitrous oxide Which are greenhouse gases?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 13,
+    "questionStatement": "The RBI was nationalized in which year?",
+    "options": {
+      "option1": "1935",
+      "option2": "1947",
+      "option3": "1949",
+      "option4": "1951"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 14,
+    "questionStatement": "Which of the following is not a Fundamental Duty?",
+    "options": {
+      "option1": "To safeguard public property",
+      "option2": "To respect the Constitution",
+      "option3": "To vote in elections",
+      "option4": "To promote harmony"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 15,
+    "questionStatement": "Which soil is most suitable for cotton cultivation?",
+    "options": {
+      "option1": "Alluvial soil",
+      "option2": "Black soil",
+      "option3": "Red soil",
+      "option4": "Laterite soil"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 16,
+    "questionStatement": "If A is taller than B, and B is taller than C, who is the shortest?",
+    "options": {
+      "option1": "A",
+      "option2": "B",
+      "option3": "C",
+      "option4": "Cannot be determined"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 17,
+    "questionStatement": "Find the next number in the series: 3, 7, 15, 31, ?",
+    "options": {
+      "option1": "45",
+      "option2": "63",
+      "option3": "60",
+      "option4": "61"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 18,
+    "questionStatement": "If 8 workers can complete a work in 12 days, how many days will 16 workers take?",
+    "options": {
+      "option1": "4",
+      "option2": "6",
+      "option3": "8",
+      "option4": "10"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 19,
+    "questionStatement": "A train 120 m long crosses a pole in 6 seconds. What is its speed?",
+    "options": {
+      "option1": "20 m/s",
+      "option2": "25 m/s",
+      "option3": "30 m/s",
+      "option4": "15 m/s"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 20,
+    "questionStatement": "Find the missing number: 2, 6, 12, 20, ?",
+    "options": {
+      "option1": "28",
+      "option2": "30",
+      "option3": "32",
+      "option4": "36"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 21,
+    "questionStatement": "The Doctrine of Basic Structure was laid down in which case?",
+    "options": {
+      "option1": "Golaknath Case",
+      "option2": "Kesavananda Bharati Case",
+      "option3": "Maneka Gandhi Case",
+      "option4": "Shah Bano Case"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 22,
+    "questionStatement": "Which Article deals with National Emergency?",
+    "options": {
+      "option1": "Article 352",
+      "option2": "Article 356",
+      "option3": "Article 360",
+      "option4": "Article 368"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 23,
+    "questionStatement": "India became a member of WTO in which year?",
+    "options": {
+      "option1": "1991",
+      "option2": "1993",
+      "option3": "1995",
+      "option4": "2000"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 24,
+    "questionStatement": "Which mission is related to solar energy?",
+    "options": {
+      "option1": "National Solar Mission",
+      "option2": "Green India Mission",
+      "option3": "Swachh Bharat Mission",
+      "option4": "AMRUT Mission"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 25,
+    "questionStatement": "Consider the following statements regarding the Finance Commission of India: 1. It is constituted every five years. 2. It is mentioned under Article 280 of the Constitution. 3. It recommends distribution of taxes between Union and States. Which of the above statements is/are correct?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 26,
+    "questionStatement": "Which of the following are considered as Money Bills? 1. A Bill imposing tax 2. A Bill regulating borrowing of Government 3. A Bill amending the Constitution Select the correct answer:",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 27,
+    "questionStatement": "Which of the following rivers flow into the Arabian Sea? 1. Narmada 2. Tapi 3. Godavari Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 28,
+    "questionStatement": "The Permanent Settlement was introduced by:",
+    "options": {
+      "option1": "Lord Cornwallis",
+      "option2": "Lord Wellesley",
+      "option3": "Lord Hastings",
+      "option4": "Lord Dalhousie"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 29,
+    "questionStatement": "Which of the following is/are objectives of the Non-Aligned Movement (NAM)? 1. Maintain neutrality in Cold War 2. Promote disarmament 3. Support colonialism Select the correct answer:",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 30,
+    "questionStatement": "Which layer of the atmosphere contains the ozone layer?",
+    "options": {
+      "option1": "Troposphere",
+      "option2": "Stratosphere",
+      "option3": "Mesosphere",
+      "option4": "Thermosphere"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 31,
+    "questionStatement": "Consider the following pairs: 1. Kaziranga National Park – Assam 2. Gir National Park – Gujarat 3. Simlipal Biosphere Reserve – Odisha Which of the above pairs are correctly matched?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 32,
+    "questionStatement": "Which of the following best describes 'Repo Rate'?",
+    "options": {
+      "option1": "Rate at which RBI borrows from public",
+      "option2": "Rate at which banks borrow from RBI",
+      "option3": "Rate of income tax",
+      "option4": "Interest on savings account"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 33,
+    "questionStatement": "Which Schedule of the Constitution deals with Anti-Defection Law?",
+    "options": {
+      "option1": "8th Schedule",
+      "option2": "9th Schedule",
+      "option3": "10th Schedule",
+      "option4": "11th Schedule"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 34,
+    "questionStatement": "The Quit India Movement was launched in:",
+    "options": {
+      "option1": "1940",
+      "option2": "1942",
+      "option3": "1945",
+      "option4": "1939"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 35,
+    "questionStatement": "Which of the following crops is mainly grown in Rabi season? 1. Wheat 2. Mustard 3. Paddy Select the correct answer:",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 36,
+    "questionStatement": "If the ratio of boys to girls in a class is 3:2 and total students are 50, how many girls are there?",
+    "options": {
+      "option1": "20",
+      "option2": "25",
+      "option3": "30",
+      "option4": "15"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 37,
+    "questionStatement": "Find the next number: 5, 11, 23, 47, ?",
+    "options": {
+      "option1": "91",
+      "option2": "95",
+      "option3": "97",
+      "option4": "99"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 38,
+    "questionStatement": "A boat moves 30 km upstream in 5 hours and 40 km downstream in 4 hours. What is the speed of the boat in still water?",
+    "options": {
+      "option1": "8 km/h",
+      "option2": "9 km/h",
+      "option3": "10 km/h",
+      "option4": "12 km/h"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 39,
+    "questionStatement": "If 15% of a number is 45, what is the number?",
+    "options": {
+      "option1": "200",
+      "option2": "250",
+      "option3": "300",
+      "option4": "350"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 40,
+    "questionStatement": "In a certain code, DELHI is written as EFMIJ. How is PATNA written?",
+    "options": {
+      "option1": "QBUOB",
+      "option2": "QBTNB",
+      "option3": "QAUOA",
+      "option4": "QBTMA"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 41,
+    "questionStatement": "Chandrayaan-3 mission was launched by which organization?",
+    "options": {
+      "option1": "DRDO",
+      "option2": "ISRO",
+      "option3": "NASA",
+      "option4": "ESA"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 42,
+    "questionStatement": "Which Article deals with President's Rule in States?",
+    "options": {
+      "option1": "Article 352",
+      "option2": "Article 356",
+      "option3": "Article 360",
+      "option4": "Article 368"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 43,
+    "questionStatement": "The G20 Summit 2023 was hosted by:",
+    "options": {
+      "option1": "Indonesia",
+      "option2": "India",
+      "option3": "Brazil",
+      "option4": "USA"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 44,
+    "questionStatement": "Which of the following is not a direct tax?",
+    "options": {
+      "option1": "Income Tax",
+      "option2": "Corporate Tax",
+      "option3": "GST",
+      "option4": "Wealth Tax"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 45,
+    "questionStatement": "The Ramsar Convention is related to conservation of:",
+    "options": {
+      "option1": "Deserts",
+      "option2": "Wetlands",
+      "option3": "Mountains",
+      "option4": "Forests"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 46,
+    "questionStatement": "Who appoints the Chief Election Commissioner of India?",
+    "options": {
+      "option1": "Prime Minister",
+      "option2": "President",
+      "option3": "Chief Justice of India",
+      "option4": "Parliament"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 47,
+    "questionStatement": "Which of the following is a renewable source of energy?",
+    "options": {
+      "option1": "Coal",
+      "option2": "Petroleum",
+      "option3": "Solar Energy",
+      "option4": "Natural Gas"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 48,
+    "questionStatement": "The headquarters of WTO is located in:",
+    "options": {
+      "option1": "New York",
+      "option2": "Paris",
+      "option3": "Geneva",
+      "option4": "London"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 49,
+    "questionStatement": "Which amendment lowered the voting age from 21 to 18 years?",
+    "options": {
+      "option1": "42nd Amendment",
+      "option2": "44th Amendment",
+      "option3": "61st Amendment",
+      "option4": "73rd Amendment"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 50,
+    "questionStatement": "Stagflation refers to:",
+    "options": {
+      "option1": "High growth with low inflation",
+      "option2": "High inflation with stagnant growth",
+      "option3": "Low inflation with high growth",
+      "option4": "Deflation with growth"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 51,
+    "questionStatement": "Consider the following statements regarding the Comptroller and Auditor General (CAG) of India: 1. He is appointed by the President of India. 2. He can be removed in the same manner as a Judge of the Supreme Court. 3. He audits the accounts of the Union and the States. Which of the above statements is/are correct?",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 52,
+    "questionStatement": "Which of the following are constitutional bodies? 1. Election Commission 2. NITI Aayog 3. Finance Commission Select the correct answer:",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 3 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 53,
+    "questionStatement": "With reference to the Indian Parliament, which of the following statements is correct?",
+    "options": {
+      "option1": "Rajya Sabha can introduce a Money Bill",
+      "option2": "Lok Sabha can be dissolved but Rajya Sabha is a permanent body",
+      "option3": "President presides over Rajya Sabha",
+      "option4": "Both Houses have equal powers in Money Bills"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 54,
+    "questionStatement": "Which of the following rivers originate from the Western Ghats? 1. Godavari 2. Krishna 3. Kaveri Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "2 and 3 only",
+      "option3": "1 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option4"
+  },
+  {
+    "questionNumber": 55,
+    "questionStatement": "The 'Global Hunger Index' is released by:",
+    "options": {
+      "option1": "World Bank",
+      "option2": "UNICEF",
+      "option3": "Concern Worldwide and Welthungerhilfe",
+      "option4": "FAO"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 56,
+    "questionStatement": "Which of the following correctly explains 'Green Hydrogen'?",
+    "options": {
+      "option1": "Hydrogen produced using coal",
+      "option2": "Hydrogen produced using renewable energy sources",
+      "option3": "Hydrogen mixed with natural gas",
+      "option4": "Hydrogen extracted from plants"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 57,
+    "questionStatement": "Which Constitutional Amendment Act introduced the Panchayati Raj system?",
+    "options": {
+      "option1": "61st Amendment",
+      "option2": "73rd Amendment",
+      "option3": "74th Amendment",
+      "option4": "86th Amendment"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 58,
+    "questionStatement": "The 'Blue Economy' mainly focuses on:",
+    "options": {
+      "option1": "Forest conservation",
+      "option2": "Sustainable use of ocean resources",
+      "option3": "Digital services",
+      "option4": "Space technology"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 59,
+    "questionStatement": "Which of the following are objectives of Monetary Policy? 1. Price stability 2. Economic growth 3. Fiscal consolidation Select the correct answer:",
+    "options": {
+      "option1": "1 only",
+      "option2": "1 and 2 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 60,
+    "questionStatement": "Which Article of the Constitution deals with Financial Emergency?",
+    "options": {
+      "option1": "Article 352",
+      "option2": "Article 356",
+      "option3": "Article 360",
+      "option4": "Article 368"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 61,
+    "questionStatement": "Find the next number in the series: 4, 9, 16, 25, ?",
+    "options": {
+      "option1": "30",
+      "option2": "36",
+      "option3": "35",
+      "option4": "49"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 62,
+    "questionStatement": "If the cost price of an article is Rs. 800 and it is sold at a profit of 20%, what is the selling price?",
+    "options": {
+      "option1": "Rs. 920",
+      "option2": "Rs. 950",
+      "option3": "Rs. 960",
+      "option4": "Rs. 1000"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 63,
+    "questionStatement": "A train travels 180 km in 3 hours. What is its average speed?",
+    "options": {
+      "option1": "50 km/h",
+      "option2": "55 km/h",
+      "option3": "60 km/h",
+      "option4": "65 km/h"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 64,
+    "questionStatement": "If 12 men can complete a work in 15 days, how many days will 20 men take to complete the same work?",
+    "options": {
+      "option1": "8 days",
+      "option2": "9 days",
+      "option3": "10 days",
+      "option4": "12 days"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 65,
+    "questionStatement": "In a certain code language, INDIA is written as JOEJB. How is CHINA written?",
+    "options": {
+      "option1": "DIJOB",
+      "option2": "DIOJB",
+      "option3": "DIJBO",
+      "option4": "EIOJB"
+    },
+    "correctOption": "option1"
+  },
+  {
+    "questionNumber": 66,
+    "questionStatement": "Which of the following are Direct Taxes? 1. Income Tax 2. GST 3. Corporate Tax Select the correct answer:",
+    "options": {
+      "option1": "1 and 2 only",
+      "option2": "1 and 3 only",
+      "option3": "2 and 3 only",
+      "option4": "1, 2 and 3"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 67,
+    "questionStatement": "The term 'Heat Dome', recently seen in news, is related to:",
+    "options": {
+      "option1": "Ocean currents",
+      "option2": "Extreme weather phenomenon",
+      "option3": "Earthquake activity",
+      "option4": "Volcanic eruption"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 68,
+    "questionStatement": "Which country hosted the COP28 Climate Summit?",
+    "options": {
+      "option1": "USA",
+      "option2": "Germany",
+      "option3": "UAE",
+      "option4": "France"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 69,
+    "questionStatement": "Which of the following is a feature of a Parliamentary form of Government?",
+    "options": {
+      "option1": "Separation of powers",
+      "option2": "Collective responsibility of Council of Ministers",
+      "option3": "Fixed tenure of executive",
+      "option4": "Direct election of Prime Minister"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 70,
+    "questionStatement": "The headquarters of IMF is located in:",
+    "options": {
+      "option1": "Geneva",
+      "option2": "New York",
+      "option3": "Washington D.C.",
+      "option4": "Paris"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 71,
+    "questionStatement": "Which of the following is not included in GDP calculation?",
+    "options": {
+      "option1": "Government expenditure",
+      "option2": "Exports",
+      "option3": "Sale of second-hand goods",
+      "option4": "Private consumption"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 72,
+    "questionStatement": "Which movement was launched in 1942?",
+    "options": {
+      "option1": "Non-Cooperation Movement",
+      "option2": "Civil Disobedience Movement",
+      "option3": "Quit India Movement",
+      "option4": "Swadeshi Movement"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 73,
+    "questionStatement": "Which of the following organizations regulates insurance sector in India?",
+    "options": {
+      "option1": "RBI",
+      "option2": "SEBI",
+      "option3": "IRDAI",
+      "option4": "NABARD"
+    },
+    "correctOption": "option3"
+  },
+  {
+    "questionNumber": 74,
+    "questionStatement": "Which planet is known as the Red Planet?",
+    "options": {
+      "option1": "Venus",
+      "option2": "Mars",
+      "option3": "Jupiter",
+      "option4": "Saturn"
+    },
+    "correctOption": "option2"
+  },
+  {
+    "questionNumber": 75,
+    "questionStatement": "Stagflation refers to:",
+    "options": {
+      "option1": "High growth and low inflation",
+      "option2": "High inflation and stagnant growth",
+      "option3": "Low inflation and high growth",
+      "option4": "Deflation and high growth"
+    },
+    "correctOption": "option2"
+  }
+]
